@@ -1,5 +1,5 @@
 FROM nginx:latest
 
-COPY . /usr/share/nginx/html/deneme.html
+COPY . /usr/share/nginx/html/
 
 EXPOSE 80
